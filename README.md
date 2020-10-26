@@ -1,2 +1,2 @@
 # iocla
-Laboratoare IOCLA
+Laboratoare IOCLA 2020 CA
